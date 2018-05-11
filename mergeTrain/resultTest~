@@ -1,8 +1,14 @@
 This is for master
 Line 1
 Line 2
+<<<<<<< HEAD
 Line 6
 Line 7
+=======
+Line 4
+Line 5
+>>>>>>> mergeTest
 
 Now for the merge
 Line 3
+
